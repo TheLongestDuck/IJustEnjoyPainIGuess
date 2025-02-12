@@ -137,20 +137,6 @@ body,
     border-radius: 0
 }
 
-.platform-win .guilds_c48ade::before {
-    content: "";
-    top: -48px;
-    right: 0;
-    bottom: 0;
-    left: 0;
-    position: absolute;
-    z-index: 1010;
-    pointer-events: none;
-    background-color: var(--header-shading);
-    height: 48px;
-    width: 72px
-}
-
 .platform-win .toolbar__9293f {
     padding-right: calc((1 - var(--hsl-bottom-enabled, 0))*3*var(--win-min-max-close-button-width));
     margin-right: -6px
@@ -6249,15 +6235,6 @@ html:is([lang=en-GB], [lang=fr]) .info__2debe::after {
 
 .visual-refresh .trailing_c38106 .anchor_edefb8[href="https://support.discord.com"] {
     display: none
-}
-
-.visual-refresh.platform-win .guilds_c48ade {
-    margin-top: 0
-}
-
-.visual-refresh.platform-win .guilds_c48ade::before,
-.visual-refresh.platform-win .guilds_c48ade::after {
-    content: none
 }
 
 .visual-refresh.platform-win .toolbar__9293f {
