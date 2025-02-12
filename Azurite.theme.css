@@ -161,18 +161,6 @@ body,
     margin-right: -6px
 }
 
-.winButton__421ed {
-    width: var(--win-min-max-close-button-width);
-    position: relative;
-    top: 0;
-    height: 48px
-}
-
-.winButtonClose__421ed:hover {
-    background: var(--red-color);
-    color: var(--interactive-hover)
-}
-
 .platform-osx .guilds_c48ade {
     margin-top: 48px;
     overflow: visible
