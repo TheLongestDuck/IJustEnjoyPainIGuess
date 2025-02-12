@@ -137,6 +137,12 @@ body,
     border-radius: 0
 }
 
+.platform-win .guilds_c48ade {
+    margin-top: 48px;
+    overflow: visible
+}
+
+
 .platform-win .guilds_c48ade::before {
     content: "";
     top: -48px;
