@@ -137,6 +137,20 @@ body,
     border-radius: 0
 }
 
+.platform-win .guilds_c48ade::before {
+    content: "";
+    top: -48px;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    position: absolute;
+    z-index: 1010;
+    pointer-events: none;
+    background-color: var(--header-shading);
+    height: 48px;
+    width: 72px
+}
+
 .platform-win .toolbar__9293f {
     padding-right: calc((1 - var(--hsl-bottom-enabled, 0))*3*var(--win-min-max-close-button-width));
     margin-right: -6px
