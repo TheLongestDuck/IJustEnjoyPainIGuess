@@ -137,11 +137,6 @@ body,
     border-radius: 0
 }
 
-.platform-win .guilds_c48ade {
-    margin-top: 48px;
-    overflow: visible
-}
-
 .platform-win .guilds_c48ade::before {
     content: "";
     top: -48px;
@@ -161,10 +156,7 @@ body,
     margin-right: -6px
 }
 
-.typeWindows__421ed {
-    background: rgb(79, 66, 88, 1);
-    margin-top: 0px;
-}
+
 
 .typeWindows__421ed::before {
     content: "";
@@ -181,13 +173,6 @@ body,
 
 .typeWindows__421ed>.wordmark__421ed {
     display: none
-}
-
-.winButton__421ed {
-    width: var(--win-min-max-close-button-width);
-    position: relative;
-    top: 0;
-    height: 48px
 }
 
 .winButtonClose__421ed:hover {
