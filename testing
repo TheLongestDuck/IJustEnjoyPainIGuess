@@ -6478,3 +6478,5 @@ html:is([lang=en-GB], [lang=fr]) .info__2debe::after {
     --text-warning: var(--yellow-color);
     --text-danger: var(--red-color)
 }
+
+.wordmarkWindows__421ed > svg {  display: none; }
