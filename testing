@@ -162,10 +162,8 @@ body,
 }
 
 .typeWindows__421ed {
-    padding-top: 0;
-    margin-top: 0;
-    height: 0;
-    position: relative
+    background: rgb(79, 66, 88, 1);
+    margin-top: 0px;
 }
 
 .typeWindows__421ed::before {
