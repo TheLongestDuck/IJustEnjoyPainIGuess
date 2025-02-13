@@ -520,9 +520,9 @@ textarea,
 
 .typeWindows__421ed>.wordmark__421ed:before {
     content: var(--TopText);
-    color: hsla(0, 0%, 100%, .7);
-    font-size: 14px;
-    text-shadow: 0 0 3px #000;
+    color: var(--TopTextColor);
+    font-size: var(--TopTextFontSize);
+    text-shadow: var(--TopTextShadow);
 }
 
 .typeMacOS__421ed {
