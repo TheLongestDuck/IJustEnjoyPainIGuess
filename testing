@@ -5865,7 +5865,7 @@ html:is([lang=en-GB], [lang=fr]) .info__2debe::after {
 }
 
 .guilds_c48ade.hidden_ef3116+.sidebar_c48ade {
-    height: 100vh
+    height: 98vh
 }
 
 .platform-osx .sidebar_c48ade::after {
