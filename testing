@@ -5833,7 +5833,7 @@ html:is([lang=en-GB], [lang=fr]) .info__2debe::after {
     overflow-x: hidden;
     top: calc(var(--notice-count, 0)*-36px);
     position: relative;
-    height: calc(100vh - var(--horizontal-server-list-enabled, 0)*var(--server-container, 0px) - var(--channel-tabs-enabled, 0)*(var(--channel-tabs-tabBar-enabled, 1)*var(--channel-tabs-favBar-enabled, 1)*5px + var(--channel-tabs-tabBar-enabled, 1)*(var(--channelTabs-tabHeight, 32px) + 3px) + var(--channel-tabs-favBar-enabled, 1)*(var(--channelTabs-favHeight, 28px) + 3px)) - var(--windows-titlebar-enabled, 0)*18px);
+    height: calc(98vh - var(--horizontal-server-list-enabled, 0)*var(--server-container, 0px) - var(--channel-tabs-enabled, 0)*(var(--channel-tabs-tabBar-enabled, 1)*var(--channel-tabs-favBar-enabled, 1)*5px + var(--channel-tabs-tabBar-enabled, 1)*(var(--channelTabs-tabHeight, 32px) + 3px) + var(--channel-tabs-favBar-enabled, 1)*(var(--channelTabs-favHeight, 28px) + 3px)) - var(--windows-titlebar-enabled, 0)*18px);
     background-color: rgba(0, 0, 0, 0)
 }
 
