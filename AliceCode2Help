@@ -11286,3 +11286,7 @@ div#magane div.stickerWindow div.packs-toolbar {
 .credentialItem__6c75d.container__91a9d:first-of-type {
     border: none
 }
+
+.wordmarkWindows__421ed > svg { 
+display: none; 
+} 
