@@ -518,29 +518,11 @@ textarea,
     background: rgba(0, 0, 0, .6)
 }
 
-.typeWindows__421ed {
-    height: 18px;
-    width: 100vw;
-    margin: 0;
-    padding-top: 2px;
-    padding-bottom: 2px;
-    background: rgba(0, 0, 0, calc(var(--background-shading) * 0.6));
-    box-shadow: 0 0 20px rgba(0, 0, 0, calc(var(--background-shading) * 0.6))
-}
-
-.typeWindows__421ed>.winButton__421ed {
-    top: -2px;
-    opacity: .7;
-    transition: all .15s ease-in-out
-}
-
-.typeWindows__421ed>.winButton__421ed:hover {
-    background: hsla(0, 0%, 100%, .1);
-    opacity: 1
-}
-
-.typeWindows__421ed>.winButtonClose__421ed:hover {
-    background: var(--danger-color)
+.typeWindows__421ed>.wordmark__421ed:before {
+    content: var(--TopText);
+    color: hsla(0, 0%, 100%, .7);
+    font-size: 14px;
+    text-shadow: 0 0 3px #000;
 }
 
 .typeMacOS__421ed {
