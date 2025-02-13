@@ -86,6 +86,10 @@
     --bd-blue-active: var(--hover-color);
     --font-primary: var(--main-font);
     --font-code: var(--code-font)
+    --TopText: "ClearVision"; /* Will NOT work directly */
+    --TopTextColor: hsla(0, 0%, 100%, .7);
+    --TopTextFontSize: 14px;
+    --TopTextShadow: 0 0 3px #000;
 }
 
 @keyframes cv-fade-in {
