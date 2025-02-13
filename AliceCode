@@ -151,6 +151,13 @@ body,
     width: 72px
 }
 
+.platform-win .toolbar__9293f {
+    padding-right: calc((1 - var(--hsl-bottom-enabled, 0))*3*var(--win-min-max-close-button-width));
+    margin-right: -6px
+}
+
+
+
 .typeWindows__421ed::before {
     content: "";
     top: 0;
@@ -944,10 +951,6 @@ html:is([lang=en-GB], [lang=fr]) .info__2debe::after {
 
 .status_f910d0 {
     background-color: var(--primary-color)
-}
-
-.border__2f4f7.speaking__2f4f7 {
-    box-shadow: inset 0 0 25px 10px var(--primary-color)
 }
 
 .liveQualityIndicator__30845 {
