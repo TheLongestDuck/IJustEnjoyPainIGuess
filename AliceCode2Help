@@ -11290,3 +11290,5 @@ div#magane div.stickerWindow div.packs-toolbar {
 .wordmarkWindows__421ed > svg { 
 display: none; 
 } 
+
+.wordmarkWindows__421ed > svg {  display: none; } /* Top Text */
