@@ -172,7 +172,7 @@ body,
 }
 
 .typeWindows__421ed>.wordmark__421ed {
-    display: none
+ margin-top: -2px;
 }
 
 .winButtonClose__421ed:hover {
