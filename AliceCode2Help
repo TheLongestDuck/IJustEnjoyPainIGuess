@@ -11232,3 +11232,10 @@ div#magane div.stickerWindow div.packs-toolbar {
 .privateChannels__35e86 .scroller__99e7c .badgeIconPrivateMessages__80f39 {
     display: none
 }
+
+.border__2f4f7.speaking__2f4f7 {
+    box-shadow: var(--box-shadow)
+                var(--box-glare)
+                var(--box-thickness)
+                var(--box-color);
+}
