@@ -11227,3 +11227,8 @@ div#magane div.stickerWindow div.packs-toolbar {
 .wordmarkWindows__421ed > svg {  
   display: none
    }
+
+.privateChannels__35e86 .scroller__99e7c .link__972a0:is([href="/store"], [href="/library"], [href="/shop"]),
+.privateChannels__35e86 .scroller__99e7c .badgeIconPrivateMessages__80f39 {
+    display: none
+}
